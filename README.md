@@ -3,7 +3,7 @@
 🚀 Full Stack Developer | Next.js | React | PHP | AI Integrations  
 💡 Passionate about building scalable web apps, AI tools, and real-time systems
 
----
+--- 
 
 ## 💼 About Me
 
